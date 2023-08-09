@@ -1,4 +1,4 @@
-module where-builder
+module github.com/dabao-zhao/where-builder
 
 go 1.16
 
